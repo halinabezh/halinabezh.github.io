@@ -1,10 +1,10 @@
-primary_name: "Your Name"
+primary_name: "Alina Kościukiewicz"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Alina Kościukiewicz"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: PhD student
+- name: University of Białystok, Faculty of Mathematics
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
