@@ -5,7 +5,7 @@ navbar_name: "Alina Kościukiewicz"
 positions:
 - name: PhD student in Mathematics
 - name: University of Białystok
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/godlo_uwb_mono_png  # Logo is optional
 
 
 email: "a.kosciukiewicz@uwb.edu.pl"
