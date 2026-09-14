@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/global.css' | relative_url }}">
 </head>
 <body class="bg-light d-flex flex-column min-vh-100" {{ page.body_attr }}>
-    #{% include navbar.html %}
+    
     <main class="flex-grow-1 flex-shrink-0 {% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
         {{content}}
     </main>
