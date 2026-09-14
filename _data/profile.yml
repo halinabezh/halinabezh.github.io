@@ -5,7 +5,7 @@ navbar_name: "Alina Kościukiewicz"
 positions:
 - name: PhD student in Mathematics
 - name: University of Białystok
-  logo: /assets/images/badges/godlo_uwb_mono_png  # Logo is optional
+  logo: /assets/images/badges/godlo_uwb_mono_png.png  # Logo is optional
 
 
 email: "a.kosciukiewicz@uwb.edu.pl"
@@ -28,16 +28,16 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/zdjecie.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+#portrait_caption: >-
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Białystok
+  logo: /assets/images/badges/godlo_uwb_mono_png.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Faculty of Mathematics <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
+  date: Oct. 2025 - present
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: B.S. in Computer Science
